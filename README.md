@@ -9,7 +9,13 @@
   * 简介：找出整数数组的两个数，他们的和等于目标数
   * [链接](https://leetcode-cn.com/problems/two-sum/description/)
   * [解答](./src/two-sum.php)
+
 * [x] add-two-numbers（两数相加）
   * 简介：用非空链表逆序表示非负整数，例如2->4->3表示342。求两个链表的和链表
   * [链接](https://leetcode-cn.com/problems/add-two-numbers/description/)
   * [解答](./src/add-two-numbers.php)
+
+* [x] longest-substring-without-repeating-characters（无重复字符的最长子串）
+  * 简介：用非空链表逆序表示非负整数，例如2->4->3表示342。求两个链表的和链表
+  * [链接](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)
+  * [解答](./src/longest-substring-without-repeating-characters.php)
