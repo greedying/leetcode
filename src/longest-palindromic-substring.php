@@ -62,3 +62,5 @@ myPrint('babad'); // aba
 myPrint('cbbd'); // bb
 myPrint('abcde'); // a
 myPrint('abcdd'); // dd
+
+// Manacher's 算法，则见 https://www.felix021.com/blog/read.php?2040
