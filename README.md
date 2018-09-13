@@ -24,3 +24,8 @@
   * 简介：找出这两个有序数组的中位数。要求算法的时间复杂度为 O(log (m+n))  
   * [链接](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)
   * [解答](./src/median-of-two-sorted-arrays.php)
+
+* [x] 5、longest-palindromic-substring（最长回文子串）
+  * 简介：给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为1000。
+  * [链接](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)
+  * [解答](./src/longest-palindromic-substring.php)
